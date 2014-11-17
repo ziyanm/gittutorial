@@ -1,3 +1,3 @@
 gittutorial
 ===========
-A repo used for demonstrating git.
+A repo used for demonstrating git for CO227 project.
